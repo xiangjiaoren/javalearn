@@ -223,6 +223,7 @@ public final class WZHApi
 
     public static long getApkAdvertVersion()
     {
+    	
         return LfCommClient2.getVersion("2004");
     }
 
