@@ -11,6 +11,8 @@ public class testRunSun extends testRunFather implements sun1 {
 		System.out.println();
 	}
 
+	
+	
 	/* (non-Javadoc)
 	 * @see readcode.sun1#toString()
 	 */
