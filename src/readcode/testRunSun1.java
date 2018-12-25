@@ -2,6 +2,10 @@ package readcode;
 
 public class testRunSun1 extends testRunFather implements sun1  {
 
+	
+	
+	///
+	
 	@Override
 	public String toString1() {
 		// TODO Auto-generated method stub
