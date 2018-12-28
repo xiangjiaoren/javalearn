@@ -3,7 +3,7 @@ package readcode;
 public class testRunSun1 extends testRunFather implements sun1  {
 
 	
-	///wangyunfun5
+	///wangyunfun6
 	///
 	
 	
