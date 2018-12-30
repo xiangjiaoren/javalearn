@@ -3,7 +3,7 @@ package readcode;
 //testThreadLocal1
 
 public class testThreadLocal1 {
-  //123
+  //123123
 	
 	 ThreadLocal<Long> longLocal = new ThreadLocal<Long>();
 	    ThreadLocal<String> stringLocal = new ThreadLocal<String>();
